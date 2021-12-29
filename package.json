@@ -1,0 +1,15 @@
+{
+  "name": "episode-1",
+  "version": "1.0.0",
+  "description": "HomeWorks",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Enescyc",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
